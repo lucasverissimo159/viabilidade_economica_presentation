@@ -1,12 +1,8 @@
 # Economic Feasibility and Infrastructure Challenges for Green Hydrogen Implementation
 
-## Repository Description / Descrição do Repositório
+---
 
-> **Repository Description / Descrição Sugerida:**
->
-> **EN:** Academic research and presentation on the economic feasibility, infrastructure challenges, and system engineering perspectives for green hydrogen implementation in Brazil (Pecém Hub case study).
->
-> **PT-BR:** Pesquisa acadêmica e apresentação sobre a viabilidade econômica, desafios de infraestrutura e engenharia de sistemas na implementação do hidrogênio verde no Brasil (estudo de caso do Hub do Pecém).
+<en/>
 
 ---
 
